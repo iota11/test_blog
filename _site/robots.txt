@@ -1,1 +1,1 @@
-Sitemap: /iota11_portfolio/sitemap.xml
+Sitemap: /test_blog/sitemap.xml
